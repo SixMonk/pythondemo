@@ -6,3 +6,5 @@
 	2. BeautifulSoup : 解析html页面并操作模块
 	3. workbook : excel操作相关模块
 - **BeautifulSoupDemo.py** : 学习BeautifulSoup 的基本用法
+- **excel_openpyxl_demo.py** : Excel操作相关
+- **requests_demo.py**：http请求相关
